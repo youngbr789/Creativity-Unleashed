@@ -1,10 +1,15 @@
-# Creativity-Unleashed
-
+<!DOCTYPE html>
 <html>
-  <script> 
-var a = 2; 
-console.log("The value of a is " + a); 
-</script>
-  
-  
-  </html>
+<head>
+    <title>100-Numbers</title>
+</head>
+<body>
+    <script>
+        var points = new Array(100);
+        var label = points.length;
+        for (var i = 0; i < label; i++) {
+            console.log(points[i]);
+        }
+    </script>
+</body>
+</html>
