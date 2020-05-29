@@ -15,6 +15,4 @@
 </body>
 </html>
 
-        for (var i = 0; i < points.length; i++) {
-            console.log(points[i]); //This prints the values that you stored in the array
-        }
+        
